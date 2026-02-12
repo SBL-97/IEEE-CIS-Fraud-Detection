@@ -1,0 +1,4 @@
+*.csv
+Data/
+jupyter notebook/
+.DS_Store
